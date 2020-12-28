@@ -1,0 +1,95 @@
+
+
+/* Header */
+
+header nav h1 {
+    font-size: 50px;
+    display: inline;
+}
+
+header .rectangle {
+    height: 10px;
+    background: #22a8c7;
+    margin: 0px 0px;
+  }
+
+header nav ul {
+    display: inline-block;
+}
+
+header nav ul a {
+    padding: 0px 10px;
+}
+
+header nav div {
+    padding: 0px 0px 0px 500px;
+    display: inline;
+}
+
+header nav div a {
+    padding: 0px 10px;
+}
+
+/* Intro */
+
+h3 {
+    font-size: 25px;
+    padding: 40px 60px 0px 60px;
+}
+
+/* Projects */
+
+h2 {
+    font-size: 35px;
+    padding: 0px 20px;
+    margin: 0px;
+}
+
+body img {
+    vertical-align: text-top;
+}
+
+.ptitle {
+    font-size: 30px;
+    color: rgb(99, 99, 99);
+}
+
+.prole {
+    font-size: 15px;
+    color: rgb(158, 156, 156);
+}
+
+.pdesc {
+    font-size: 20px;
+    color: black;
+}
+
+.pic {
+    float: left;
+    padding: 0px 5px 0px 0px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.rectangle {
+    height: 10px;
+    background: #22a8c7;
+    margin: 0px 0px 0px 20px;
+    border-radius: 25px;
+
+}
+
+.project {
+    border-radius: 25px;
+    border: 2px solid #22a8c7 ;
+    height: 200px;
+    padding: 10px;
+}
+.project:hover {
+    background-color: rgb(222, 222, 241);
+}
+
+a {
+    text-decoration: none;   
+}
